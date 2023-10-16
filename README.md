@@ -1,1 +1,1 @@
-This is the simple resume making files using Html and CSS.
+This is a simple resume made with the html and css.
