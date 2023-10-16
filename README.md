@@ -1,1 +1,1 @@
-This is a simple resume made with the html and css.
+This is a simple resume made using the html and css.
